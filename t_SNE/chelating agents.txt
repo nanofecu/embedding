@@ -1,0 +1,23 @@
+EDTA
+EGTA
+NTA
+TTA
+Citric acid
+Acetic acid
+Tartrate
+Oxalic acid
+Malonic acid
+TACN
+Cyclam
+Triethylenetetramine
+Calixarenes
+Catechol
+Phosphonates
+Polyethyleneimine
+BAPTA
+8-Hydroxyquinoline
+Iminodiacetic acid
+Aminopolycarboxylic acids
+Bipyridine
+Phenanthroline
+Dimercaptosuccinic acid
