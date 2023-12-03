@@ -1,6 +1,7 @@
-## Advancing Materials Synthesis Research: A Novel Approach to Chemical Reagent Identification through Word Embeddings - A Case Study on FeCu Synthesis
+## Advancing materials synthesis through a novel approach: Word Embeddings for Chemical Reagent Identification - A Case Study on nano-FeCu
 
-​      This study constructed a specialized corpus centered around ‘Fe, Cu, synthesis.’ Using this corpus, domain-specific word vector models were trained employing Natural Language Processing (NLP) technology within an unsupervised environment. Through average cosine similarity analysis, visual analysis and synonym analysis, this study, using Bimetallic FeCu as a case, revealed the potential chemical reagents involved in the synthesis of FeCu. This demonstrates the practical application value of the embedding model and verifies the effectiveness of models in the synthesis of chemical materials.
+​            Nanoparticles synthesis is complicated due to varied synthesis conditions and requires precise chemical reagent identification. This paper establishes a specialized "Fe, Cu, synthesis" corpus, utilizing natural language processing (NLP) to train a domain-specific word embedding model. Evaluation includes average cosine similarity, visual analysis, and synonym analysis. Findings highlight the strong correlation between learning rate and cosine similarity. t-SNE visualisation shows improved focus 
+compared to models without the chemical corpus. Synonym analysis reveals the model's effectiveness in identifying potential chemical reagents for nano-FeCu particle synthesis. The study proposes a versatile interdisciplinary framework for rapid chemical reagent identification, expediting nanomaterial research and development. In conclusion, this innovative, widely applicable research method offers a data-driven pathway in chemical material synthesis.
 
 
 
@@ -21,7 +22,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 ![图片描述](https://github.com/nanofecu/image/blob/main/Workflow.jpg)
 
-The paths for the input and output files required in the code need to be set according to the program's requirements.Please set the file paths as necessary before running the program.
+The paths for the input and output files required in the code need to be set according to the program's requirements. Please set the file paths as necessary before running the program.
 
 
 
