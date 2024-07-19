@@ -9,6 +9,7 @@ compared to models without the chemical corpus. Synonym analysis reveals the mod
 
 Following is a short description of each directory under the root folder.
 
+* <code>[analogy_reasoning_analysis](./analogy_reasoning_analysis)</code>: Contains scripts for conducting analogy reasoning tasks.
 * <code>[data_processing](./data_processing)</code>: Functions used in data processing.
 * <code>[model_training](./model_training)</code>: This function trains different models with the provided parameters and saves it to the specified directory.
 * <code>[cosine_similarity](./cosine_similarity)</code>: This function loads models to compute similarity scores between word pairs listed in the file.

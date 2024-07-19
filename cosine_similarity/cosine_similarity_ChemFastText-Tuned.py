@@ -39,7 +39,7 @@ for line in tqdm(lines, desc="Processing", ncols=100):
     print("similarity_scores:", similarity_scores)
 
 # Save the results to a txt file
-# Example: './D4__res.txt'
+# Example: './D4_res.txt'
 with open('<Your Output File Path>', "w", encoding="utf-8") as outfile:
     for key, value in similarity_scores.items():
         outfile.write(f"Cosine Similarity for {key}: {value:.4f}\n")
